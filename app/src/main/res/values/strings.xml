@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">cadence</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test_screen2">setting</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="frontGear">Кол-во зубъев передней звезды</string>
+    <string name="rearGear">Кол-во зубъев задней звезды</string>
+    <string name="circuit">Длина окружности заднего колеса, см</string>
+     <string name="startBtnText">Start</string>
+    <string name="KadenceMeter">Kadence Meter</string>
+    <string name="title_activity_testscreen3">cadence</string>
+    <string name="maxSpeedText">MAX</string>
+    <string name="avgSpeedText">AVG</string>
+    <string name="maxSpeed">0</string>
+    <string name="avgSpeed">0</string>
+    <string name="maxCadence">0</string>
+    <string name="avgCadence">0</string>
+    <string name="compassText">Компас</string>
+    <string name="compass">N</string>
+    <string name="climbText">Наклон</string>
+    <string name="cadence">0</string>
+    <string name="tripUnits">km</string>
+    <string name="speed">0</string>
+    <string name="title_activity_test_screen3">cadence</string>
+    <string name="cadenceUnits">rpm</string>
+    <string name="speedUnits">km/h</string>
+    <string name="speedText">speed</string>
+    <string name="cadenceText">cadence</string>
+    <string name="tripText">trip</string>
+    <string name="directionText">direction</string>
+    <string name="slopeText">slope</string>
+    <string name="title_activity_calculate">calculate</string>
+    <string name="title_activity_calc">calcActivity</string>
+    <string name="plus">+</string>
+    <string name="minuse"> - </string>
+    <string name="one">1</string>
+    <string name="scopeText">scope : </string>
+
+
+</resources>

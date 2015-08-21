@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="blackText">#ff000000</color>
+    <color name="blueText">#FF33F0FF</color>
+    <color name="greenText">#FF14FF50</color>
+    <color name="redText">#FFFF0000</color>
+    <color name="whiteText">#FFFFFFFF</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="greySpeed">#ffc0c0c0</color>
+
+</resources>
