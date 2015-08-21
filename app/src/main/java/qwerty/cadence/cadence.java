@@ -154,6 +154,7 @@ public class cadence extends Activity  implements SensorListener {
             reload();
         }
     }
+    //qq
 
     public void subRearGear(View view) {
         if (Integer.valueOf(String.valueOf(rearGearIndicator.getText())) > 1) {
