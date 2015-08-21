@@ -33,6 +33,7 @@ public class cadence extends Activity  implements SensorListener {
     private int rGear = 0;
     private int slope=0;
     private int zeroSlope=0;
+    private int a=0;
 
 
     @Override
