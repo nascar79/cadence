@@ -18,7 +18,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-//
+//Ыв
 public class cadence extends Activity  implements SensorListener {
     SensorManager sm = null;
     TextView yViewO = null;
