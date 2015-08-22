@@ -1,0 +1,5 @@
+C:\Users\1\AndroidStudioProjects\qaz\app\build\intermediates\classes\debug
+C:\Users\1\AndroidStudioProjects\qaz\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-3a9dc0fab84d3b021f8e90fb67c01f564d70941c.jar
+C:\Users\1\AndroidStudioProjects\qaz\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-9d4cc93671e5343d71261752b210331af38ecb04.jar
+C:\Users\1\AndroidStudioProjects\qaz\app\build\intermediates\pre-dexed\debug\classes-e43e2d1c119370fcc9ed898406ad094277bd40de.jar
+C:\Users\1\AndroidStudioProjects\qaz\app\build\intermediates\pre-dexed\debug\classes-7c440aff5ef36c88c05b282bfbcd8db5e850451f.jar
